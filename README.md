@@ -45,8 +45,10 @@
   <a href="https://wa.me/542995050253" title="Contactar por WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
 </p>
 
----
+## Sitio web
 
 <p align="center">
-  <img src="./assets/WorKraken-logo.png" width="96" alt="Logo de WorKraken">
+  <a href="https://workraken.com" title="Visitar el sitio web de WorKraken">
+    <img src="./assets/WorKraken-logo.png" width="96" alt="Visitar workraken.com">
+  </a>
 </p>
