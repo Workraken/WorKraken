@@ -29,12 +29,22 @@
 
 ## Encontranos en las redes
 
-<p align="left">
-  <a href="https://www.instagram.com/WorKraken/"><img alt="Instagram de WorKraken" src="https://img.shields.io/badge/Instagram-WorKraken-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a><br>
-  <a href="https://www.facebook.com/WorKraken"><img alt="Facebook de WorKraken" src="https://img.shields.io/badge/Facebook-WorKraken-0866FF?style=for-the-badge&logo=facebook&logoColor=white"></a><br>
-  <a href="https://www.linkedin.com/company/WorKraken"><img alt="LinkedIn de WorKraken" src="https://img.shields.io/badge/LinkedIn-WorKraken-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
-  <a href="https://www.tiktok.com/@WorKraken"><img alt="TikTok de WorKraken" src="https://img.shields.io/badge/TikTok-WorKraken-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a><br>
-  <a href="https://www.youtube.com/@WorKraken"><img alt="YouTube de WorKraken" src="https://img.shields.io/badge/YouTube-WorKraken-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.instagram.com/WorKraken/" title="Instagram"><img width="64" height="64" alt="Instagram de WorKraken" src="https://img.icons8.com/fluency/96/instagram-new.png"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/WorKraken" title="Facebook"><img width="64" height="64" alt="Facebook de WorKraken" src="https://img.icons8.com/fluency/96/facebook-new.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/WorKraken" title="LinkedIn"><img width="64" height="64" alt="LinkedIn de WorKraken" src="https://img.icons8.com/fluency/96/linkedin-circled.png"></a>&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@WorKraken" title="TikTok"><img width="64" height="64" alt="TikTok de WorKraken" src="https://img.icons8.com/fluency/96/tiktok.png"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="https://img.icons8.com/fluency/96/youtube-play.png"></a>
+</p>
+
+<h3 align="center">Contacto</h3>
+
+<p align="center">
+  <a href="mailto:workraken@gmail.com"><img width="32" height="32" alt="Correo electrónico" src="https://img.icons8.com/fluency/96/gmail-new.png"></a>
+  &nbsp;<a href="mailto:workraken@gmail.com"><strong>workraken@gmail.com</strong></a>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/542995050253"><img width="32" height="32" alt="WhatsApp" src="https://img.icons8.com/fluency/96/whatsapp.png"></a>
+  &nbsp;<a href="https://wa.me/542995050253"><strong>+54 299 505-0253</strong></a>
 </p>
 
 ---
