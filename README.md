@@ -34,7 +34,8 @@
   <a href="https://www.facebook.com/WorKraken" title="Facebook"><img width="64" height="64" alt="Facebook de WorKraken" src="./assets/social/facebook.svg"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/company/WorKraken" title="LinkedIn"><img width="64" height="64" alt="LinkedIn de WorKraken" src="./assets/social/linkedin.svg"></a>&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@WorKraken" title="TikTok"><img width="64" height="64" alt="TikTok de WorKraken" src="./assets/social/tiktok.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="./assets/social/youtube.svg"></a>
+  <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="./assets/social/youtube.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.pinterest.com/Workraken/" title="Pinterest"><img width="64" height="64" alt="Pinterest de WorKraken" src="./assets/social/pinterest.svg"></a>
 </p>
 
 ## Contacto
