@@ -24,7 +24,7 @@
 
 ## Productos
 
-- **AlkiSYS:** plataforma web de gestión para alquileres, estacionamientos, flotas, gastos y balances.
+- **WorKraken web:** gestión integral de alquileres, estacionamientos, flotas, gastos y balances.
 - **WorKraken móvil:** experiencia móvil para acompañar la operación desde cualquier lugar.
 
 ## Encontranos en las redes
