@@ -30,21 +30,18 @@
 ## Encontranos en las redes
 
 <p align="center">
-  <a href="https://www.instagram.com/WorKraken/" title="Instagram"><img width="64" height="64" alt="Instagram de WorKraken" src="https://img.icons8.com/fluency/96/instagram-new.png"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/WorKraken" title="Facebook"><img width="64" height="64" alt="Facebook de WorKraken" src="https://img.icons8.com/fluency/96/facebook-new.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/company/WorKraken" title="LinkedIn"><img width="64" height="64" alt="LinkedIn de WorKraken" src="https://img.icons8.com/fluency/96/linkedin-circled.png"></a>&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@WorKraken" title="TikTok"><img width="64" height="64" alt="TikTok de WorKraken" src="https://img.icons8.com/fluency/96/tiktok.png"></a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="https://img.icons8.com/fluency/96/youtube-play.png"></a>
+  <a href="https://www.instagram.com/WorKraken/" title="Instagram"><img width="64" height="64" alt="Instagram de WorKraken" src="./assets/social/instagram.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/WorKraken" title="Facebook"><img width="64" height="64" alt="Facebook de WorKraken" src="./assets/social/facebook.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/WorKraken" title="LinkedIn"><img width="64" height="64" alt="LinkedIn de WorKraken" src="./assets/social/linkedin.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@WorKraken" title="TikTok"><img width="64" height="64" alt="TikTok de WorKraken" src="./assets/social/tiktok.svg"></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="./assets/social/youtube.svg"></a>
 </p>
 
-<h3 align="center">Contacto</h3>
+## Contacto
 
 <p align="center">
-  <a href="mailto:workraken@gmail.com"><img width="32" height="32" alt="Correo electrónico" src="https://img.icons8.com/fluency/96/gmail-new.png"></a>
-  &nbsp;<a href="mailto:workraken@gmail.com"><strong>workraken@gmail.com</strong></a>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/542995050253"><img width="32" height="32" alt="WhatsApp" src="https://img.icons8.com/fluency/96/whatsapp.png"></a>
-  &nbsp;<a href="https://wa.me/542995050253"><strong>+54 299 505-0253</strong></a>
+  <a href="mailto:workraken@gmail.com" title="Enviar un correo"><img width="64" height="64" alt="Enviar un correo a WorKraken" src="./assets/social/email.svg"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/542995050253" title="Contactar por WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
 </p>
 
 ---
