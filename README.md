@@ -6,26 +6,28 @@
   </picture>
 </p>
 
-<h1 align="center">Todo tu negocio, bajo control.</h1>
+<h1 align="center">Tu negocio, bien gestionado y bien presentado.</h1>
 
-<h3 align="center">Gestión simple, decisiones claras y más tiempo para crecer.</h3>
+<h3 align="center">WorKraken ayuda a pequeños negocios a gestionarse, comunicarse y presentarse con la solidez de una gran empresa.</h3>
 
 <p align="center">
-  WorKraken reúne operaciones, clientes, cobros, gastos y métricas en un solo lugar.<br>
-  Desde la web o el celular, automatizá tareas y trabajá siempre con información clara.
+  Reunimos gestión, comunicación y presencia digital para que cada negocio pueda trabajar con orden,<br>
+  relacionarse mejor con sus clientes y construir una marca profesional.
 </p>
 
 ## Qué construimos
 
 - **Gestión centralizada:** operaciones, clientes, cobros, gastos y métricas en un solo lugar.
+- **Comunicación:** herramientas para organizar la relación con los clientes y mantener cada conversación cerca de la operación.
+- **Presencia digital y marca:** una imagen profesional y una web que representen al negocio.
 - **Automatización:** menos tareas repetitivas y más tiempo para hacer crecer el negocio.
+- **Decisiones con datos:** paneles e informes claros para entender qué está pasando y decidir mejor.
 - **Experiencia web y móvil:** información disponible donde se la necesita.
-- **Decisiones con datos:** paneles e informes para entender el negocio de forma rápida.
 
 ## Productos
 
 - **WorKraken web:** gestión integral de alquileres, estacionamientos, flotas, gastos y balances.
-- **WorKraken móvil:** experiencia móvil para acompañar la operación desde cualquier lugar.
+- **WorKraken móvil:** una experiencia ágil para acompañar la operación desde cualquier lugar.
 
 ## Nuestro equipo
 
@@ -54,14 +56,12 @@
 ## Contacto
 
 <p align="center">
-  <a href="mailto:workraken@gmail.com" title="Enviar un correo"><img width="64" height="64" alt="Enviar un correo a WorKraken" src="./assets/social/email.svg"></a>&nbsp;&nbsp;
-  <a href="https://wa.me/542995050253" title="Contactar por WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
+  <a href="mailto:workraken@gmail.com" title="Correo"><img width="64" height="64" alt="Enviar un correo a WorKraken" src="./assets/contact/email.svg"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/contact/whatsapp.svg"></a>
 </p>
 
 ## Sitio web
 
 <p align="center">
-  <a href="https://workraken.com" title="Visitar el sitio web de WorKraken">
-    <img src="./assets/WorKraken-logo.png" width="96" alt="Visitar workraken.com">
-  </a>
+  <a href="https://workraken.com" title="WorKraken"><img width="160" alt="Visitar workraken.com" src="./assets/contact/website.svg"></a>
 </p>
