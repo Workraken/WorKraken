@@ -36,9 +36,8 @@
   <a href="https://www.tiktok.com/@WorKraken" title="TikTok"><img width="64" height="64" alt="TikTok de WorKraken" src="./assets/social/tiktok.svg"></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="./assets/social/youtube.svg"></a>&nbsp;&nbsp;
   <a href="https://www.pinterest.com/Workraken/" title="Pinterest"><img width="64" height="64" alt="Pinterest de WorKraken" src="./assets/social/pinterest.svg"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Workraken" title="GitHub"><img width="64" height="64" alt="GitHub de WorKraken" src="https://cdn.simpleicons.org/github/181717"></a>&nbsp;&nbsp;
-  <a href="https://www.threads.com/@workraken" title="Threads"><img width="64" height="64" alt="Threads de WorKraken" src="https://cdn.simpleicons.org/threads/AE00FF"></a>&nbsp;&nbsp;
-  <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="https://cdn.simpleicons.org/x/1DA1F2"></a>
+  <a href="https://www.threads.com/@workraken" title="Threads"><img width="64" height="64" alt="Threads de WorKraken" src="./assets/social/threads.svg"></a>&nbsp;&nbsp;
+  <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="./assets/social/x.svg"></a>
 </p>
 
 ## Contacto
