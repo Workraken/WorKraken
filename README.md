@@ -56,12 +56,12 @@
 ## Contacto
 
 <p align="center">
-  <a href="mailto:workraken@gmail.com" title="Correo"><img width="64" height="64" alt="Enviar un correo a WorKraken" src="./assets/contact/email.svg"></a>&nbsp;&nbsp;
-  <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/contact/whatsapp.svg"></a>
+  <a href="mailto:workraken@gmail.com" title="Correo"><img width="64" height="64" alt="Enviar un correo a WorKraken" src="./assets/social/email.svg"></a>&nbsp;&nbsp;
+  <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
 </p>
 
 ## Sitio web
 
 <p align="center">
-  <a href="https://workraken.com" title="WorKraken"><img width="160" alt="Visitar workraken.com" src="./assets/contact/website.svg"></a>
+  <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="96" alt="Visitar workraken.com"></a>
 </p>
