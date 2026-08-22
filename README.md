@@ -30,8 +30,8 @@
 ## Nuestro equipo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailín Pizarro"><img width="96" height="96" alt="Ailín Pizarro, CEO de WorKraken" src="https://images.weserv.nl/?url=github.com/Soy-Red.png%3Fsize%3D192&w=96&h=96&fit=cover&mask=circle"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="https://images.weserv.nl/?url=github.com/Cuento-de-Risas.png%3Fsize%3D192&w=96&h=96&fit=cover&mask=circle"></a>
+  <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailín Pizarro"><img width="96" height="96" alt="Ailín Pizarro, CEO de WorKraken" src="./assets/team/ailin-pizarro-circle.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="./assets/team/joaquin-benitez-circle.png"></a>
 </p>
 
 <p align="center">
