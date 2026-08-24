@@ -31,14 +31,18 @@
 
 ## Nuestro equipo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CEO de WorKraken" src="./assets/team/ailin-pizarro-circle.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="./assets/team/joaquin-benitez-circle.png"></a>
-</p>
-
-<p align="center">
-  <strong>Ailin Pizarro</strong> · CEO &nbsp;&nbsp;&nbsp;&nbsp; <strong>Joaquín Benítez</strong> · CTO
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CEO de WorKraken" src="./assets/team/ailin-pizarro-circle.png"></a><br>
+      <strong>Ailin Pizarro</strong> · CEO
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="./assets/team/joaquin-benitez-circle.png"></a><br>
+      <strong>Joaquín Benítez</strong> · CTO
+    </td>
+  </tr>
+</table>
 
 ## Encontranos en las redes
 
