@@ -10,7 +10,7 @@
 
 <h3 align="center"><strong>Todo lo que necesitás para trabajar con más claridad y menos vueltas.</strong></h3>
 
-<p align="center"><strong>WorKraken</strong> reúne la operación del día a día, la relación con tus clientes y una marca que muestre todo lo que hacés.</p>
+<p><strong>WorKraken</strong> reúne la operación del día a día, la relación con tus clientes y una marca que muestre todo lo que hacés.</p>
 
 <h2 align="center">🧭 Hacemos que gestionar tu negocio sea más simple</h2>
 
