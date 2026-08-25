@@ -55,18 +55,18 @@
   <a href="https://www.youtube.com/@WorKraken" title="YouTube"><img width="64" height="64" alt="YouTube de WorKraken" src="./assets/social/youtube.svg"></a>&nbsp;&nbsp;
   <a href="https://www.pinterest.com/Workraken/" title="Pinterest"><img width="64" height="64" alt="Pinterest de WorKraken" src="./assets/social/pinterest.svg"></a>&nbsp;&nbsp;
   <a href="https://www.threads.com/@workraken" title="Threads"><img width="64" height="64" alt="Threads de WorKraken" src="./assets/social/threads.svg"></a>&nbsp;&nbsp;
-  <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="./assets/social/x.svg"></a>
+  <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="./assets/social/x.svg"></a><img width="1" height="72" alt="" src="./assets/team/spacer.svg">
 </p>
 
 <h2 align="center">📫 Hablemos de tu negocio</h2>
 
 <p align="center">
   <a href="mailto:workraken@gmail.com" title="Gmail"><img width="64" height="64" alt="Enviar un correo a WorKraken por Gmail" src="./assets/social/email.svg"></a>&nbsp;&nbsp;
-  <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
+  <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a><img width="1" height="72" alt="" src="./assets/team/spacer.svg">
 </p>
 
 <h2 align="center">🔗 Descubrí WorKraken</h2>
 
 <p align="center">
-  <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="180" alt="Visitar workraken.com"></a>
+  <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="360" alt="Visitar workraken.com"></a>
 </p>
