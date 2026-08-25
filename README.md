@@ -8,11 +8,11 @@
 
 <h1 align="center">Más orden para trabajar. Más tiempo para crecer.</h1>
 
-<h3 align="center"><strong>Todo lo que necesitás para trabajar con más claridad y menos vueltas.</strong></h3>
+<h3><strong>Todo lo que necesitás para trabajar con más claridad y menos vueltas.</strong></h3>
 
 <p><strong>WorKraken</strong> reúne la operación del día a día, la relación con tus clientes y una marca que muestre todo lo que hacés.</p>
 
-<h2 align="center">🧭 Hacemos que gestionar tu negocio sea más simple</h2>
+<h2>🧭 Hacemos que gestionar tu negocio sea más simple</h2>
 
 - **Todo en su lugar:** organizá clientes, cobros, gastos, tareas y resultados sin saltar de una herramienta a otra.
 - **Clientes mejor acompañados:** mantené cada conversación y cada seguimiento cerca de la operación.
@@ -21,7 +21,7 @@
 - **Información que ayuda a decidir:** entendé qué está pasando con paneles e informes claros, sin complicaciones.
 - **Tu negocio siempre cerca:** consultá y gestioná la información que necesitás desde la web o el celular.
 
-<h2 align="center">🛠️ Herramientas que acompañan tu día a día</h2>
+<h2>🛠️ Herramientas que acompañan tu día a día</h2>
 
 - **WorKraken web:** el centro de tu operación. Gestioná alquileres, estacionamientos, flotas, gastos y balances desde un solo lugar.
 - **WorKraken móvil:** una experiencia rápida y práctica para seguir tu negocio estés donde estés.
