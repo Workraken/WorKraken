@@ -15,7 +15,9 @@
   la operación del día a día, la relación con tus clientes y una marca que muestre todo lo que hacés.
 </p>
 
-## 🧭 Hacemos que gestionar tu negocio sea más simple
+<br><br>
+
+<h2 align="center">🧭 Hacemos que gestionar tu negocio sea más simple</h2>
 
 - **Todo en su lugar:** organizá clientes, cobros, gastos, tareas y resultados sin saltar de una herramienta a otra.
 - **Clientes mejor acompañados:** mantené cada conversación y cada seguimiento cerca de la operación.
@@ -24,12 +26,16 @@
 - **Información que ayuda a decidir:** entendé qué está pasando con paneles e informes claros, sin complicaciones.
 - **Tu negocio siempre cerca:** consultá y gestioná la información que necesitás desde la web o el celular.
 
-## 🛠️ Herramientas que acompañan tu día a día
+<br><br>
+
+<h2 align="center">🛠️ Herramientas que acompañan tu día a día</h2>
 
 - **WorKraken web:** el centro de tu operación. Gestioná alquileres, estacionamientos, flotas, gastos y balances desde un solo lugar.
 - **WorKraken móvil:** una experiencia rápida y práctica para seguir tu negocio estés donde estés.
 
-## 👥 Las personas detrás de WorKraken
+<br><br>
+
+<h2 align="center">👥 Las personas detrás de WorKraken</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CEO de WorKraken" src="./assets/team/ailin-pizarro-circle.png"></a><img width="84" height="1" alt="" src="./assets/team/spacer.svg"><a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="./assets/team/joaquin-benitez-circle.png"></a>
@@ -39,7 +45,9 @@
   <strong>Ailin Pizarro</strong> · CEO<img width="42" height="1" alt="" src="./assets/team/spacer.svg"><strong>Joaquín Benítez</strong> · CTO
 </p>
 
-## 🌐 Sigamos en contacto
+<br><br>
+
+<h2 align="center">🌐 Sigamos en contacto</h2>
 
 
 <p align="center">
@@ -53,7 +61,9 @@
   <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="./assets/social/x.svg"></a>
 </p>
 
-## 📫 Hablemos de tu negocio
+<br><br>
+
+<h2 align="center">📫 Hablemos de tu negocio</h2>
 
 
 <p align="center">
@@ -61,7 +71,9 @@
   <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
 </p>
 
-## 🔗 Descubrí WorKraken
+<br><br>
+
+<h2 align="center">🔗 Descubrí WorKraken</h2>
 
 <p align="center">
   <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="96" alt="Visitar workraken.com"></a>
