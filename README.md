@@ -37,6 +37,8 @@
 
 <h2 align="center">👥 Las personas detrás de WorKraken</h2>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CEO de WorKraken" src="./assets/team/ailin-pizarro-circle.png"></a><img width="84" height="1" alt="" src="./assets/team/spacer.svg"><a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="./assets/team/joaquin-benitez-circle.png"></a>
 </p>
@@ -45,10 +47,11 @@
   <strong>Ailin Pizarro</strong> · CEO<img width="42" height="1" alt="" src="./assets/team/spacer.svg"><strong>Joaquín Benítez</strong> · CTO
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">🌐 Sigamos en contacto</h2>
 
+<br>
 
 <p align="center">
   <a href="https://www.instagram.com/WorKraken/" title="Instagram"><img width="64" height="64" alt="Instagram de WorKraken" src="./assets/social/instagram.svg"></a>&nbsp;&nbsp;
@@ -61,20 +64,23 @@
   <a href="https://x.com/WorKrakenApp" title="X"><img width="64" height="64" alt="X de WorKraken" src="./assets/social/x.svg"></a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">📫 Hablemos de tu negocio</h2>
 
+<br>
 
 <p align="center">
   <a href="mailto:workraken@gmail.com" title="Gmail"><img width="64" height="64" alt="Enviar un correo a WorKraken por Gmail" src="./assets/social/email.svg"></a>&nbsp;&nbsp;
   <a href="https://wa.me/542995050253" title="WhatsApp"><img width="64" height="64" alt="Contactar a WorKraken por WhatsApp" src="./assets/social/whatsapp.svg"></a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">🔗 Descubrí WorKraken</h2>
 
+<br>
+
 <p align="center">
-  <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="96" alt="Visitar workraken.com"></a>
+  <a href="https://workraken.com" title="WorKraken"><img src="./assets/WorKraken-logo.png" width="120" alt="Visitar workraken.com"></a>
 </p>
