@@ -8,7 +8,7 @@
 
 <h1 align="center">Más orden para trabajar. Más tiempo para crecer.</h1>
 
-<p align="center">Todo lo que necesitás para trabajar con más claridad y menos vueltas.</p>
+<h3 align="center"><strong>Todo lo que necesitás para trabajar con más claridad y menos vueltas.</strong></h3>
 
 <p align="center">
   WorKraken reúne todo lo que necesitás para llevar tu negocio adelante con claridad:<br>
